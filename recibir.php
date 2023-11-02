@@ -7,7 +7,7 @@ echo"El numero capturado es:".$numero;
 echo"<br>";
 $resultado=1;
 $acumulador;
-
+echo "Entonces: ".$numero."!= ";
 if($numero>0){
     for( $i=1; $i<=$numero; $i++){
        
